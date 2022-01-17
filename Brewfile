@@ -20,6 +20,7 @@ brew "node"
 brew "tig"
 brew "yarn"
 brew "serve"
+brew "neovim"
 
 cask "google-chrome"
 cask "1password"
